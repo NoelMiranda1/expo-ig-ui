@@ -152,11 +152,17 @@ yarn start
 
 ## 📱 Capturas de Pantalla
 
+<div align="center">
+  <img src="./assets/images/example-image.png" alt="Instagram Search Screen Clone" width="300" />
+  <p><em>Pantalla de búsqueda con grid de imágenes estilo Instagram</em></p>
+</div>
+
 El proyecto implementa fielmente el diseño visual de Instagram, incluyendo:
 - Navegación por tabs inferior
 - Tema oscuro
 - Animaciones y transiciones suaves
 - Diseño responsive
+- Grid de búsqueda con indicadores de video (▶️)
 
 ## 📄 Licencia
 
